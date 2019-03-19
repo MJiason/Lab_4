@@ -68,10 +68,10 @@ public class Furniture {
 
     @Override
     public String toString() {
-        return "Furniture{" +
+        return "\n" + "Furniture{" +
                 "name='" + name + '\'' +
                 ", price=" + price +
                 ", type=" + type +
-                '}'+"\n";
+                '}';
     }
 }
