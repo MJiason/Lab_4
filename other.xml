@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/lab3&#10;D:/lab_2_1&#10;D:/lab_2_1/lab_2_1.iml&#10;D:/Tests (Lab2_MaxT)&#10;C:/Program Files/Java/jdk-11.0.2&#10;C:/Users/Mi/Desktop/lab_1&#10;C:/Users/Mi/Desktop/lab_1/lab_1/lab_1.iml" />
+    <property name="file.gist.reindex.count" value="177" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11.0.2" />
+    <property name="lastTip" value="18" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
