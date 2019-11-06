@@ -19,11 +19,13 @@
       <entry key="properties.showfilter" value="true" />
       <entry key="properties.groupingtype" value="1" />
       <entry key="properties.expanded.codegen" value="true" />
+      <entry key="properties.filterstring" value="vi" />
       <node name="forms">
         <entry key="selection-889735051" value="radioButton3" />
         <entry key="paletteexpanded-889735051" value="components" />
         <entry key="paletteexpanded-825090923" value="components,menus" />
         <entry key="selection-825090923" value="this" />
+        <entry key="selection1356520933" value="button2" />
       </node>
     </node>
   </component>
