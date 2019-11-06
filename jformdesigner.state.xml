@@ -5,19 +5,25 @@
     <entry key="license.filechooser.size" value="641, 326" />
     <entry key="updates.lastcheckedversion" value="7.0.0.6.255" />
     <entry key="updates.lastchecked" value="1572998713582" />
+    <entry key="run.autoclose" value="true" />
+    <entry key="showstructureineditor" value="false" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
+      <entry key="newcontainer.layoutmanager" value="org.jdesktop.layout.GroupLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="librarymanager.copysources" value="false" />
       <entry key="librarymanager.copyjavadoc" value="false" />
       <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
-      <entry key="properties.expanded.category.readonly" value="true" />
+      <entry key="properties.expanded.constraints" value="false" />
+      <entry key="properties.showfilter" value="true" />
+      <entry key="properties.groupingtype" value="1" />
+      <entry key="properties.expanded.codegen" value="true" />
       <node name="forms">
         <entry key="selection-889735051" value="radioButton3" />
         <entry key="paletteexpanded-889735051" value="components" />
-        <entry key="selection-825090923" value="(root)" />
+        <entry key="paletteexpanded-825090923" value="components,menus" />
+        <entry key="selection-825090923" value="this" />
       </node>
     </node>
   </component>
