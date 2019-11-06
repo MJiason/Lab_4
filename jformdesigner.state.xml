@@ -1,11 +1,24 @@
 <application>
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
+    <entry key="license.filechooser.lastdirpath" value="C:\Users\Mi\Downloads" />
+    <entry key="license.filechooser.size" value="641, 326" />
+    <entry key="updates.lastcheckedversion" value="7.0.0.6.255" />
+    <entry key="updates.lastchecked" value="1572998713582" />
     <node name="designer">
       <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
-      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <entry key="librarymanager.copysources" value="false" />
+      <entry key="librarymanager.copyjavadoc" value="false" />
+      <entry key="newform.superclass.history2" value="javax.swing.JFrame" />
+      <entry key="properties.expanded.category.readonly" value="true" />
+      <node name="forms">
+        <entry key="selection-889735051" value="radioButton3" />
+        <entry key="paletteexpanded-889735051" value="components" />
+        <entry key="selection-825090923" value="(root)" />
+      </node>
     </node>
   </component>
 </application>
