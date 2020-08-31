@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Acl_with_springboot'" />
-    <option name="defaultScopeName" value="Project 'Acl_with_springboot'" />
-    <option name="SEARCH_SCOPE" value="Project 'Acl_with_springboot'" />
+    <option name="customScope" value="Project 'Practice'" />
+    <option name="defaultScopeName" value="Project 'Practice'" />
+    <option name="SEARCH_SCOPE" value="Project 'Practice'" />
   </component>
 </application>
