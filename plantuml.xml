@@ -1,5 +1,5 @@
 <application>
-  <component name="PlantUmlSettings">
+  <component name="PlantUmlSettingsNew">
     <option name="dotExecutable" value="C:/Program Files (x86)/Graphviz2.38/bin/dot.exe" />
     <option name="renderUrlLinks" value="true" />
     <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
