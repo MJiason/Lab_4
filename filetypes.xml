@@ -7,6 +7,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping ext="proporties" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern="FurnitureType.java" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
