@@ -1,6 +1,9 @@
 <application>
   <component name="PlantUmlSettingsNew">
-    <option name="dotExecutable" value="C:/Program Files (x86)/Graphviz2.38/bin/dot.exe" />
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="customPlantumlJarPath" value="" />
+    <option name="dotExecutable" value="C:/Program Files/Graphviz/bin/dot.exe" />
+    <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2022.5" />
     <option name="previewSettings">
       <PreviewSettings>
