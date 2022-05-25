@@ -1,7 +1,7 @@
 <application>
   <component name="PlantUmlSettingsNew">
     <option name="dotExecutable" value="C:/Program Files (x86)/Graphviz2.38/bin/dot.exe" />
-    <option name="renderUrlLinks" value="true" />
+    <option name="lastBundledVersion" value="1.2021.11" />
     <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
   </component>
 </application>
